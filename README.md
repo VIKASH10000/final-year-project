@@ -35,22 +35,14 @@ Users should be able to following things:
 
 ### What I learned
 
-Completing this challenge has helped me improve my Frontend development skills such as:
-- Responsive web design
-- Writing semantic HTML5 markup
-- Adding various web functionalities using JavaScript by manipulating the DOM
-
-I've also been able to learn new things while completing the challenges, they include:
-- Toggling a dropdown menu using vanilla javascript
-- changing the color of an image using vanilla javascript
-- Properly format a form using javascript
-
-
+Completing this challenge has helped me improve my Python development skills such as:
+- Data Analysis in Python
+- Python libraries
+- Fetch data from API 
 
 ### Continued development
 
-For my next projects, I'll be focusing on learning how to implement animations on drop down menus and change of 
-image onclick.
+For my next projects, I'll be focusing on learning how to implement pridiction of air and water polution.
 
 ## Author
 
